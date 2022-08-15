@@ -47,10 +47,18 @@ button.second {
 }
 
 .text_container {
+    display: flex;
+    flex-direction: column;
     border-left: 5px solid lightseagreen;
     position:relative;
     top:450px;
 }
+
+
+/* .button_container {
+    display: flex;
+    flex-direction: column;
+} */
 
 /* .container {
     height: 200px;
