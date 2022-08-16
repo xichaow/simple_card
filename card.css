@@ -1,66 +1,66 @@
 .background-img {
-    height: 700px;
-    position: absolute;
-    top:0;
-    left:0;
-    z-index:-1;
+  height: 700px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
 }
 
 h3 {
-    position:relative;
-    left: 100px;
-    color: green;
-    font-style: italic;
-    font-size: 25px;
+  position: relative;
+  left: 100px;
+  color: green;
+  font-style: italic;
+  font-size: 25px;
 }
 
 h1 {
-    position:relative;
-    left: 85px;
-    color: white;
-    font-style: italic;
-    font-size: 50px;
+  position: relative;
+  left: 85px;
+  color: white;
+  font-style: italic;
+  font-size: 50px;
 }
 
 button.first {
-    position:relative;
-    left:900px;
-    top:-100px;
-    padding:5px;
-    border-radius: 5px;
-    background-color: white;
-    border: none;
-    font-style: italic;
+  position: relative;
+  left: 900px;
+  top: -100px;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: white;
+  border: none;
+  font-style: italic;
 }
 
 button.second {
-    position:relative;
-    top:420px;
-    left:800px;
-    background-color: lightblue;
-    color: white;
-    padding:10px;
-    border:none;
-    border-radius: 10px;
-    font-size: 25px;
-    font-style: italic;
+  position: relative;
+  top: 420px;
+  left: 800px;
+  background-color: lightblue;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 25px;
+  font-style: italic;
 }
 
 .text_container {
-    display: flex;
-    flex-direction: column;
-    border-left: 5px solid lightseagreen;
-    position:relative;
-    top:450px;
+  display: flex;
+  flex-direction: column;
+  border-left: 5px solid lightseagreen;
+  position: relative;
+  top: 450px;
 }
-
 
 /* .button_container {
     display: flex;
     flex-direction: column;
 } */
-
 /* .container {
     height: 200px;
     width: 200px;
 } */
+
+/*# sourceMappingURL=card.css.map */
